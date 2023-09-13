@@ -1,0 +1,42 @@
+D:\ITI- .NET\linq\Medicine Store\DAL\bin\Debug\DAL.dll.config
+D:\ITI- .NET\linq\Medicine Store\DAL\bin\Debug\DAL.dll
+D:\ITI- .NET\linq\Medicine Store\DAL\bin\Debug\DAL.pdb
+D:\ITI- .NET\linq\Medicine Store\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ITI- .NET\linq\Medicine Store\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ITI- .NET\linq\Medicine Store\DAL\obj\Debug\DAL.dll
+D:\ITI- .NET\linq\Medicine Store\DAL\obj\Debug\DAL.pdb
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\DAL\bin\Debug\DAL.dll.config
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\DAL\bin\Debug\DAL.dll
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\DAL\bin\Debug\DAL.pdb
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\DAL\obj\Debug\DAL.dll
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\DAL\obj\Debug\DAL.pdb
+C:\Users\Office\OneDrive\Desktop\Medicine Store\DAL\bin\Debug\DAL.dll.config
+C:\Users\Office\OneDrive\Desktop\Medicine Store\DAL\bin\Debug\DAL.dll
+C:\Users\Office\OneDrive\Desktop\Medicine Store\DAL\bin\Debug\DAL.pdb
+C:\Users\Office\OneDrive\Desktop\Medicine Store\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Office\OneDrive\Desktop\Medicine Store\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Office\OneDrive\Desktop\Medicine Store\DAL\obj\Debug\DAL.dll
+C:\Users\Office\OneDrive\Desktop\Medicine Store\DAL\obj\Debug\DAL.pdb
+D:\Final Design\Final Design\DAL\bin\Debug\DAL.dll.config
+D:\Final Design\Final Design\DAL\bin\Debug\DAL.dll
+D:\Final Design\Final Design\DAL\bin\Debug\DAL.pdb
+D:\Final Design\Final Design\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Final Design\Final Design\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Final Design\Final Design\DAL\obj\Debug\DAL.dll
+D:\Final Design\Final Design\DAL\obj\Debug\DAL.pdb
+F:\Final Design\Final Design\DAL\bin\Debug\DAL.dll.config
+F:\Final Design\Final Design\DAL\bin\Debug\DAL.dll
+F:\Final Design\Final Design\DAL\bin\Debug\DAL.pdb
+F:\Final Design\Final Design\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Final Design\Final Design\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Final Design\Final Design\DAL\obj\Debug\DAL.dll
+F:\Final Design\Final Design\DAL\obj\Debug\DAL.pdb
+E:\C#\Final Design\Final Design\DAL\bin\Debug\DAL.dll.config
+E:\C#\Final Design\Final Design\DAL\bin\Debug\DAL.dll
+E:\C#\Final Design\Final Design\DAL\bin\Debug\DAL.pdb
+E:\C#\Final Design\Final Design\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\C#\Final Design\Final Design\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\C#\Final Design\Final Design\DAL\obj\Debug\DAL.dll
+E:\C#\Final Design\Final Design\DAL\obj\Debug\DAL.pdb

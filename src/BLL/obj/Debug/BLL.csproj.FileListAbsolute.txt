@@ -1,0 +1,71 @@
+D:\ITI- .NET\linq\Medicine Store\BLL\bin\Debug\BLL.dll
+D:\ITI- .NET\linq\Medicine Store\BLL\bin\Debug\BLL.pdb
+D:\ITI- .NET\linq\Medicine Store\BLL\bin\Debug\DAL.dll
+D:\ITI- .NET\linq\Medicine Store\BLL\bin\Debug\DAL.pdb
+D:\ITI- .NET\linq\Medicine Store\BLL\bin\Debug\DAL.dll.config
+D:\ITI- .NET\linq\Medicine Store\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ITI- .NET\linq\Medicine Store\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ITI- .NET\linq\Medicine Store\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ITI- .NET\linq\Medicine Store\BLL\obj\Debug\BLL.dll
+D:\ITI- .NET\linq\Medicine Store\BLL\obj\Debug\BLL.pdb
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\bin\Debug\BLL.dll
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\bin\Debug\BLL.pdb
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\bin\Debug\DAL.dll
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\bin\Debug\DAL.pdb
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\bin\Debug\DAL.dll.config
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\obj\Debug\BLL.dll
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\obj\Debug\BLL.pdb
+F:\ITI .Net\6. C# Advance\Project\Medicine Store\BLL\bin\Debug\BLL.dll.config
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\bin\Debug\BLL.dll.config
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\bin\Debug\BLL.dll
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\bin\Debug\BLL.pdb
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\bin\Debug\DAL.dll
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\bin\Debug\DAL.pdb
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\bin\Debug\DAL.dll.config
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\obj\Debug\BLL.dll
+C:\Users\Office\OneDrive\Desktop\Medicine Store\BLL\obj\Debug\BLL.pdb
+D:\Final Design\Final Design\BLL\bin\Debug\BLL.dll.config
+D:\Final Design\Final Design\BLL\bin\Debug\BLL.dll
+D:\Final Design\Final Design\BLL\bin\Debug\BLL.pdb
+D:\Final Design\Final Design\BLL\bin\Debug\DAL.dll
+D:\Final Design\Final Design\BLL\bin\Debug\DAL.pdb
+D:\Final Design\Final Design\BLL\bin\Debug\DAL.dll.config
+D:\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Final Design\Final Design\BLL\obj\Debug\BLL.dll
+D:\Final Design\Final Design\BLL\obj\Debug\BLL.pdb
+F:\Final Design\Final Design\BLL\bin\Debug\BLL.dll.config
+F:\Final Design\Final Design\BLL\bin\Debug\BLL.dll
+F:\Final Design\Final Design\BLL\bin\Debug\BLL.pdb
+F:\Final Design\Final Design\BLL\bin\Debug\DAL.dll
+F:\Final Design\Final Design\BLL\bin\Debug\DAL.pdb
+F:\Final Design\Final Design\BLL\bin\Debug\DAL.dll.config
+F:\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Final Design\Final Design\BLL\obj\Debug\BLL.dll
+F:\Final Design\Final Design\BLL\obj\Debug\BLL.pdb
+E:\C#\Final Design\Final Design\BLL\bin\Debug\BLL.dll.config
+E:\C#\Final Design\Final Design\BLL\bin\Debug\BLL.dll
+E:\C#\Final Design\Final Design\BLL\bin\Debug\BLL.pdb
+E:\C#\Final Design\Final Design\BLL\bin\Debug\DAL.dll
+E:\C#\Final Design\Final Design\BLL\bin\Debug\DAL.pdb
+E:\C#\Final Design\Final Design\BLL\bin\Debug\DAL.dll.config
+E:\C#\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\C#\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\C#\Final Design\Final Design\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\C#\Final Design\Final Design\BLL\obj\Debug\BLL.dll
+E:\C#\Final Design\Final Design\BLL\obj\Debug\BLL.pdb
+E:\C#\Final Design\Final Design\BLL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\C#\Final Design\Final Design\BLL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\C#\Final Design\Final Design\BLL\bin\Debug\CrystalDecisions.Shared.dll
+E:\C#\Final Design\Final Design\BLL\bin\Debug\log4net.dll
+E:\C#\Final Design\Final Design\BLL\bin\Debug\log4net.xml
+E:\C#\Final Design\Final Design\BLL\bin\Debug\CrystalDecisions.ReportSource.dll
