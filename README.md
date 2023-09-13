@@ -32,5 +32,9 @@ The **Medicine Store Desktop App** is a software application designed to simplif
   - ![Report medicine companies](images/CompanyReport.PNG)
     
   - ![Report of sales](images/salesInvoice.PNG)
+ 
+  - ![item detailes](images/ItemDetails.PNG)
+    
+
 
 By using this app, users gain insights into their store's operations, enabling them to promptly address areas that require attention.
